@@ -1,0 +1,9 @@
+# train and val data
+train: E:/code/Vehicle_Count/Traffic_Signs_Dataset/data/images/train/
+val: E:/code/Vehicle_Count/Traffic_Signs_Dataset/data/images/val/
+
+# number of classes
+nc: 3
+
+# class names
+names: ['car','bus','truck']
